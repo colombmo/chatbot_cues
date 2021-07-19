@@ -1,0 +1,47 @@
+quality_c utility_s -5
+quality_c doubt_s -2
+quality_c emotion_s -2
+quality_c relationship_s -1
+
+task_social_c utility_s -3
+task_social_c emotion_s -1
+
+message_intensity_c utility_s -2
+message_intensity_c emotion_s -2
+message_intensity_c relationship_s -1
+
+xxx_c utility_s -1
+
+humanlike_c utility_s -1
+humanlike_c emotion_s -4
+humanlike_c relationship_s -2
+
+user_c utility_s -2
+user_c emotion_s -3
+user_c relationship_s -2
+
+failure_c emotion_s -1
+
+character_c relationship_s -1
+
+
+
+utility_s satisfaction_r -2
+utility_s trust_r -4
+utility_s behavior_r -5
+utility_s sales_r -3
+
+doubt_s trust_r -2
+doubt_s behavior_r -2
+
+emotion_s satisfaction_r -4
+emotion_s trust_r -3
+emotion_s behavior_r -2
+emotion_s sales_r -1
+emotion_s brand_r -2
+
+relationship_s satisfaction_r -2
+relationship_s trust_r -2
+relationship_s behavior_r -2
+relationship_s sales_r -2
+relationship_s brand_r -1
